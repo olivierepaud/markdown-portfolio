@@ -1,0 +1,4 @@
+- [ ] GitHub
+- [ ] Vagrant
+- [ ] Lasagna
+- [ ] cheese and wine 
